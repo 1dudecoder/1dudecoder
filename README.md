@@ -88,9 +88,7 @@
  </br>
 
 
-
-![windy-texting](https://user-images.githubusercontent.com/51919649/131571363-92a41adc-35e2-44a6-a5e1-d93b1b9cdf42.gif)
-
+<img hight="320" width="450" align="right" alt="GIF" src="https://user-images.githubusercontent.com/51919649/131571363-92a41adc-35e2-44a6-a5e1-d93b1b9cdf42.gif">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
