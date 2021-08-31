@@ -8,11 +8,7 @@
 ### Hi there 👋, my name is Nitin Negi
 ### I am Software Developer and Designer  😄
 
-A guy who wants to code | MERN Stack developer | Tenacious Person |
-
-Skills:  REACT JS / NODE JS / NEXT JS / EXPRESS JS / MONGO DB / 
-
-- 🔭 I’m currently working on this page. 
+### MY Skills -
 
 **Front-end**
 
