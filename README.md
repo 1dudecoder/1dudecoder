@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;!+!+This+is+Nitin+Negi....;Nice+to+meet+you!&center=true&size=30">
@@ -8,24 +6,13 @@
 
 
 ### Hi there 👋, my name is Nitin Negi
-### I am Software developer and Designer
+### I am Software Developer and Designer  😄
 
 A guy who wants to code | MERN Stack developer | Tenacious Person |
 
 Skills:  REACT JS / NODE JS / NEXT JS / EXPRESS JS / MONGO DB / 
 
 - 🔭 I’m currently working on this page. 
-
-
-
-**Back-end**
-
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1-1174935.png"></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/express-8-1175029.png"></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png"></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/express-8-1175029.png"></code>
-
-
 
 **Front-end**
 
@@ -35,6 +22,13 @@ Skills:  REACT JS / NODE JS / NEXT JS / EXPRESS JS / MONGO DB /
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png"></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png"></code>
 <code><img height="50" src="https://miro.medium.com/max/1838/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg"></code>
+
+
+**Back-end**
+
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1-1174935.png"></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/express-8-1175029.png"></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/firebase-3521427-2944871.png"></code>
 
 
 **Databases**
