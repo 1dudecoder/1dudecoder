@@ -10,9 +10,6 @@
 ### Hi there 👋, my name is Nitin Negi
 ### I am Software developer and Designer
 
-
-![I am Software developer and Designer](https://1dudecoder.github.io/My_Portfolio/)
-
 A guy who wants to code | MERN Stack developer | Tenacious Person |
 
 Skills:  REACT JS / NODE JS / NEXT JS / EXPRESS JS / MONGO DB / 
