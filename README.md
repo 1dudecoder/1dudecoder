@@ -40,6 +40,17 @@
 
 <a href="https://www.1dudecoder.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=1dudecoder&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dudecoder&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
+
+
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.linkedin.com/in/nitin-negi-b17681137/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/man_long_time/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/profile.php?id=100009284434857" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://open.spotify.com/user/21ramw645dslgafaw3pedagci?si=QohhkQHXQHq8agQcQNzXdA" alt="Spotify"></a>
+
+
+</div>
 <!--
 **1dudecoder/1dudecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
