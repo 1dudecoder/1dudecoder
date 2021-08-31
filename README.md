@@ -18,22 +18,20 @@ Skills:  REACT JS / NODE JS / NEXT JS / EXPRESS JS / MONGO DB /
 **Back-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/elixir.png"></code>
+
 
 
 
 **Front-end**
 
-<code><img height="30" src="https://img-premium.flaticon.com/png/128/1183/premium/1183672.png?token=exp=1630432182~hmac=a3c87a4f5acf394e18bae13ac4817f05"></code>
+<code><img height="50" src="https://img-premium.flaticon.com/png/128/1183/premium/1183672.png?token=exp=1630432182~hmac=a3c87a4f5acf394e18bae13ac4817f05"></code>
 
 
 **Databases**
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
+
+
+
 
 
 
