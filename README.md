@@ -8,7 +8,13 @@
 ### Hi there 👋, my name is Nitin Negi
 ### I am Software Developer and Designer  😄
 
-### MY Skills -
+
+<code><img height="350" src="https://user-images.githubusercontent.com/51919649/131556264-1240cb18-e60d-494b-8f97-6367ea76925b.png"></code>
+
+
+
+### My Skills: 
+
 
 **Front-end**
 
