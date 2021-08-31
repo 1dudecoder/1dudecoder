@@ -12,7 +12,7 @@
 </h1>
 
 
-### Hi there 👋, my name is Nitin Negi
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , my name is Nitin Negi
 ### I am Software Developer and Designer  😄
 
 <code><img height="350" src="https://user-images.githubusercontent.com/51919649/131556264-1240cb18-e60d-494b-8f97-6367ea76925b.png"></code>
@@ -82,7 +82,7 @@
 
 
 
-# Contact Me :
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Contact Me :
 
 <p>
  </br>
@@ -113,6 +113,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  </p>
  
 </div>
+
+
 <!--
 **1dudecoder/1dudecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
