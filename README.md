@@ -9,12 +9,17 @@
 ### I am Software Developer and Designer  😄
 
 
+
 <code><img height="350" src="https://user-images.githubusercontent.com/51919649/131556264-1240cb18-e60d-494b-8f97-6367ea76925b.png"></code>
 
 
+### MYRESUME
+
+<code></code>
+
+<a href="https://github.com/1dudecoder/My-resume/blob/master/Nitinresume.pdf" target="_blank"><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/resume-1956260-1650513.png" /></a>
 
 ### My Skills: 
-
 
 **Front-end**
 
@@ -48,7 +53,7 @@
 <a href="https://www.instagram.com/man_long_time/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100009284434857" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/21ramw645dslgafaw3pedagci?si=QohhkQHXQHq8agQcQNzXdA&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+
 
 </div>
 <!--
