@@ -9,7 +9,7 @@
 ### I am Software Developer and Designer  😄
 
 
-<code><img height="500" src="https://user-images.githubusercontent.com/51919649/131556264-1240cb18-e60d-494b-8f97-6367ea76925b.png"></code>
+<code><img height="450" src="https://user-images.githubusercontent.com/51919649/131556264-1240cb18-e60d-494b-8f97-6367ea76925b.png"></code>
 
 
 A guy who wants to code | MERN Stack developer | Tenacious Person |
