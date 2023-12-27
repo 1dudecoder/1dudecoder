@@ -20,7 +20,7 @@
 
 ### MYRESUME
 
-<a href="https://github.com/1dudecoder/My-resume/blob/master/nitinnegi%20resume.pdf" target="_blank"><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/resume-1956260-1650513.png" /></a>
+<a href="https://github.com/1dudecoder/1dudecoder/files/13776418/NITINRESUME.1.pdf" target="_blank"><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/resume-1956260-1650513.png" /></a>
 
 ### My Skills: 
 
